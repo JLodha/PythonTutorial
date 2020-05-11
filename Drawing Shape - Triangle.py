@@ -1,0 +1,5 @@
+print("Right Angled Triangle:")
+print("   /|")
+print("  / |")
+print(" /  |")
+print("/___|")
